@@ -1,0 +1,235 @@
+[
+  {
+    "id": "api_1",
+    "name": "TV-1080资源",
+    "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php",
+    "group": "tv",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "api_2",
+    "name": "TV-360资源",
+    "baseUrl": "https://360zy.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "id": "api_3",
+    "name": "TV-CK资源",
+    "baseUrl": "https://ckzy.me/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 3
+  },
+  {
+    "id": "api_4",
+    "name": "TV-U酷资源",
+    "baseUrl": "https://api.ukuapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 4
+  },
+  {
+    "id": "api_5",
+    "name": "TV-ikun资源",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "api_6",
+    "name": "TV-无尽资源",
+    "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 6
+  },
+  {
+    "id": "api_7",
+    "name": "TV-丫丫点播",
+    "baseUrl": "https://cj.yayazy.net/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 7
+  },
+  {
+    "id": "api_8",
+    "name": "TV-光速资源",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 8
+  },
+  {
+    "id": "api_9",
+    "name": "TV-卧龙资源",
+    "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 9
+  },
+  {
+    "id": "api_10",
+    "name": "TV-天涯资源",
+    "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "api_11",
+    "name": "TV-如意资源",
+    "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 11
+  },
+  {
+    "id": "api_12",
+    "name": "TV-最大资源",
+    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 12
+  },
+  {
+    "id": "api_13",
+    "name": "TV-樱花资源",
+    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 13
+  },
+  {
+    "id": "api_14",
+    "name": "TV-电影天堂",
+    "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 14
+  },
+  {
+    "id": "api_15",
+    "name": "TV-百度云",
+    "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 15
+  },
+  {
+    "id": "api_16",
+    "name": "TV-红牛资源",
+    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 16
+  },
+  {
+    "id": "api_17",
+    "name": "TV-豆瓣资源",
+    "baseUrl": "https://dbzy.tv/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 17
+  },
+  {
+    "id": "api_18",
+    "name": "TV-豪华资源",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 18
+  },
+  {
+    "id": "api_19",
+    "name": "TV-魔都资源",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
+    "group": "tv",
+    "enabled": true,
+    "priority": 19
+  },
+
+  {
+    "id": "api_20",
+    "name": "AV-155资源",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 20
+  },
+  {
+    "id": "api_21",
+    "name": "AV-百万资源",
+    "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 21
+  },
+  {
+    "id": "api_22",
+    "name": "AV-91麻豆",
+    "baseUrl": "https://91md.me/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 22
+  },
+  {
+    "id": "api_23",
+    "name": "AV-JKUN",
+    "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 23
+  },
+  {
+    "id": "api_24",
+    "name": "AV-森林资源",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 24
+  },
+  {
+    "id": "api_25",
+    "name": "AV-玉兔资源",
+    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 25
+  },
+  {
+    "id": "api_26",
+    "name": "AV-精品资源",
+    "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 26
+  },
+  {
+    "id": "api_27",
+    "name": "AV-老色逼",
+    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 27
+  },
+  {
+    "id": "api_28",
+    "name": "AV-辣椒资源",
+    "baseUrl": "https://apilj.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 28
+  },
+  {
+    "id": "api_29",
+    "name": "AV-鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "group": "av",
+    "enabled": true,
+    "priority": 29
+  }
+]
