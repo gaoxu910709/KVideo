@@ -1,0 +1,19 @@
+[
+  { "id": "api_1", "name": "TV-1080资源", "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php", "group": "normal" },
+  { "id": "api_2", "name": "AV-155资源", "baseUrl": "https://155api.com/api.php/provide/vod", "group": "premium" },
+  { "id": "api_7", "name": "TV-ikun资源", "baseUrl": "https://ikunzyapi.com/api.php/provide/vod", "group": "normal" },
+  { "id": "api_10", "name": "TV-光速资源", "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod", "group": "normal" },
+  { "id": "api_23", "name": "TV-暴风资源", "baseUrl": "https://bfzyapi.com/api.php/provide/vod", "group": "normal" },
+  { "id": "api_25", "name": "TV-最大资源", "baseUrl": "https://api.zuidapi.com/api.php/provide/vod", "group": "normal" },
+  { "id": "api_30", "name": "AV-百万资源", "baseUrl": "https://api.bwzyz.com/api.php/provide/vod", "group": "premium" },
+  { "id": "api_33", "name": "TV-索尼资源", "baseUrl": "https://suoniapi.com/api.php/provide/vod", "group": "normal" },
+  { "id": "api_41", "name": "TV-量子资源", "baseUrl": "https://cj.lziapi.com/api.php/provide/vod", "group": "normal" },
+  { "id": "api_45", "name": "TV-非凡资源", "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod", "group": "normal" },
+  { "id": "api_52", "name": "AV-91麻豆", "baseUrl": "https://91md.me/api.php/provide/vod", "group": "premium" },
+  { "id": "api_60", "name": "AV-淫水机", "baseUrl": "https://www.xrbsp.com/api/json.php", "group": "premium" },
+  { "id": "api_62", "name": "AV-番号资源", "baseUrl": "http://fhapi9.com/api.php/provide/vod", "group": "premium" },
+  { "id": "api_69", "name": "AV-辣椒资源", "baseUrl": "https://apilj.com/api.php/provide/vod", "group": "premium" },
+  { "id": "jisu", "name": "极速资源", "baseUrl": "https://jszyapi.com/api.php/provide/vod", "group": "normal" },
+  { "id": "xingba", "name": "杏吧资源", "baseUrl": "https://xingba111.com/api.php/provide/vod", "group": "premium" },
+  { "id": "huangse", "name": "黄色资源", "baseUrl": "https://hsckzy888.com/api.php/provide/vod", "group": "premium" }
+]
